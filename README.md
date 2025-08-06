@@ -1,6 +1,7 @@
 📊 CodeAlpha Internship Project
 Internship Domain: Data Analytics
 Tasks Completed:
+
 ✅ Task 1: Web Scraping
 ✅ Task 2: Exploratory Data Analysis (EDA)
 ✅ Task 3: Data Visualization
